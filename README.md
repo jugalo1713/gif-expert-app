@@ -6,6 +6,8 @@ Simple App created from Udemy course [React: De Cero a experto](https://www.udem
 Page site deployed in Netlify
 https://6463a476edd737362652f644--clever-cajeta-ffec01.netlify.app/
 
+Page site deployed in Github https://jugalo1713.github.io/gif-expert-app/
+
 
 ## Authors
 
